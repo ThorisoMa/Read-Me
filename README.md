@@ -11,8 +11,8 @@
 <p>-Origins of AI: Basically the history of AI and how will it stay relavent and impact us in the future.</p>
 
 <h2>📫 How to reach me:</h2>
-<p>- Email: https://wwww.thorisothotho1@gmail.com</p>
-<p>- LinkedIn: https://www.linkedin.com/in/thoriso-makokoe-a594a029a/</p>
+<p>- Email: [thorisothotho1@gmail.com](mailto:thorisothotho1@gmail.com)</p>
+<p>- LinkedIn: [thoriso-makokoe-a594a029a](https://www.linkedin.com/in/thoriso-makokoe-a594a029a/)</p>
 
 <h2>🧰 Languages and Tools</h2>
 
