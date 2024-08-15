@@ -2,7 +2,7 @@
 <h1>...Hi there 👋🙂...</h1>
 
 **`About Me`**
-<p>I'm a passionate full stack software developer in the making. I love coding and building things that matter. Currently exploring different technologies and frameworks to expand my skill set. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code./p>
+<p>I'm a passionate full stack software developer in the making. I love coding and building things that matter. Currently exploring different technologies and frameworks to expand my skill set. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 <h2>🔭 I'm currently working on...</h2>
 <p>-Websites: I'm targeting small and upcoming businesses to help them develop proper full functioning websites.</p>
