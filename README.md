@@ -1,4 +1,4 @@
-# //👨‍🎓THORISO MAKOKOE
+# //👨‍🎓Thoriso Makokoe
 <h1>...Hi there 👋🙂...</h1>
 
 **`About Me`**
