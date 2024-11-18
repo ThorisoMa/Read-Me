@@ -12,7 +12,7 @@
 
 <h2>📫 How to reach me:</h2>
 <p>- Email: thorisothotho1@gmail.com</p>
-<p>- LinkedIn: [thoriso-makokoe-a594a029a](https://www.linkedin.com/in/thoriso-makokoe-a594a029a/)</p>
+<p>- LinkedIn: (https://www.linkedin.com/in/thoriso-makokoe-a594a029a/)</p>
 
 <h2>🧰 Languages and Tools</h2>
 
